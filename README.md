@@ -1,5 +1,5 @@
 # Vendor-Treasure-Sheet-5e
-[![Github All Releases](https://img.shields.io/github/downloads/jopeek/fvtt-loot-sheet-npc-5e/total.svg)]
+[![Github All Releases]([https://github.com/SheduMan/Vendor-Treasure-Sheet-5e)]
 
 This module is based on Loot Sheet NPC 5E by Jan Ole Peek (ChalkOne). It adds an additional NPC sheet which can be used for loot containers such as chests or merchants in your game. It has a permission system that allows observers to make loot or purchase actions which will automatically process the item transaction, including inventory moves and currency changes. 
 
@@ -54,7 +54,7 @@ Dragging of spells into the sheet will automatically turn them into scrolls.
 To install a module, follow these instructions:
 
 1. Start FVTT and browse to the Game Modules tab in the Configuration and Setup menu
-2. Select the Install Module button and enter the following URL: https://raw.githubusercontent.com/jopeek/fvtt-loot-sheet-npc-5e/master/module.json
+2. Select the Install Module button and enter the following URL: https://github.com/SheduMan/Vendor-Treasure-Sheet-5e/module.json
 3. Click Install and wait for installation to complete 
 
 ### Feedback
