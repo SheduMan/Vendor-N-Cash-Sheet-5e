@@ -1,4 +1,4 @@
-# Vendor-Cash-Sheet-5e
+# Vendor-Treasure-Sheet-5e
 [![Github All Releases](https://img.shields.io/github/downloads/jopeek/fvtt-loot-sheet-npc-5e/total.svg)]
 
 This module is based on Loot Sheet NPC 5E by Jan Ole Peek (ChalkOne). It adds an additional NPC sheet which can be used for loot containers such as chests or merchants in your game. It has a permission system that allows observers to make loot or purchase actions which will automatically process the item transaction, including inventory moves and currency changes. 
